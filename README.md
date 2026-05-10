@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AJINKYA JOSHI</h1>
 <h3 align="center">Passionate in Computer Vision and developing ML Models.</h3>
 
-- 🔭 I’m currently working on **Machine LZearning & Computer Vision Project in IIIT-H .**
+- 🔭 I’m currently working on **Machine Learning & Computer Vision Project in IIIT-H .**
 
 - 🌱 I’m currently learning **Deep Learning and in dept concepts of Computer Vision , also exploring new technologies related to it .**
 
